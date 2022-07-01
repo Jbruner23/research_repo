@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../booksum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CLIP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vqgan-clip" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vqgan_clip" vcs="Git" />
+  </component>
+</project>
